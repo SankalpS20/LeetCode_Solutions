@@ -8,7 +8,6 @@ class Solution:
         n = len(nums)
         k = k % n
         
-        # Helper function to reverse a portion of the array
         def reverse(start: int, end: int) -> None:
             while start < end:
                 nums[start], nums[end] = nums[end], nums[start]
