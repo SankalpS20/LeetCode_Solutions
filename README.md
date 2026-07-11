@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0031-next-permutation](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/0031-next-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0031-next-permutation](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/0031-next-permutation/) | Medium |
 <!---LeetCode Topics End-->
