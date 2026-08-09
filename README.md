@@ -26,4 +26,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
 <!---LeetCode Topics End-->
