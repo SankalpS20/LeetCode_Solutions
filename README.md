@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/0031-next-permutation/) | Medium |
+| [3606-coupon-code-validator](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/3606-coupon-code-validator/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
+| [3606-coupon-code-validator](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/3606-coupon-code-validator/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +40,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3606-coupon-code-validator](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/3606-coupon-code-validator/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3606-coupon-code-validator](https://github.com/SankalpS20/LeetCode_Solutions/tree/main/3606-coupon-code-validator/) | Easy |
 <!---LeetCode Topics End-->
